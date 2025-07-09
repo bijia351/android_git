@@ -1,0 +1,10 @@
+# This file must *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+
+# GitHub API Token (replace with your own)
+GITHUB_API_TOKEN=github_pat_xxxx
+
+# OpenRouter API Key
+OPENROUTER_API_KEY=sk-or-v1-xxx
+
+sdk.dir=G\:\\develop\\android\\sdk
