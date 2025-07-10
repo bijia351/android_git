@@ -20,8 +20,8 @@
 
 1.  **克隆仓库**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/bijia351/android_git
+    cd android_git
     ```
 
 2.  **获取 API 密钥**:
